@@ -26,7 +26,7 @@ To github.com:sofiahra/latihan_python.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
 
-# ini jika ada file baru 
+# ini jika ada file baru atau ada perubahan di file 
 PS C:\Users\ASUS\Downloads\latihan_python> git add .
 PS C:\Users\ASUS\Downloads\latihan_python> git commit -m "add Readme"
 [main 806bdf2] add Readme
